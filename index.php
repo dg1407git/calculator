@@ -37,7 +37,7 @@ if($operator=='sum'){
         </select>
         <input name="operand1" type="number" step="0.01" value="<?=$operand1?>">
         <input name="operand2" type="number" step="0.01" value="<?=$operand2?>">
-        <input type="submit" value="Расчитать">
+        <input type="submit" value="Рассчитать">
     </form>
     </br>
     <div>Результат: <?=$result?></div>
